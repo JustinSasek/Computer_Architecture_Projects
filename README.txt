@@ -1,4 +1,4 @@
-UT Austin Computer Architecture Honors Projects - Spring 2022 - C, C++, X86-64
+UT Austin Computer Architecture Honors Projects - Spring 2023 - C, C++, X86-64, Verilog
 
 Unable to publish actual code due to academic integrity policy
 
